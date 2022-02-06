@@ -11,7 +11,7 @@ namespace CivilizationOOP
             showAndSelectYourNationality();
 
             getSoldierProperties();
-
+            
             chooseAttackType();
      
         }
