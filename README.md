@@ -2,6 +2,7 @@
 Simulation of Civilization Demo with OOPWars
 
 --I wanted to use Object Oriented Principle with Civilization Demo.
+
 --During to game, You can choose your Nationality before you can see your soldiers capability, also you will find a chance for selecting your attack type
 
 Picture:1 
